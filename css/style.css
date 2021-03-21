@@ -11,8 +11,6 @@
  float: left;
   width: 100%;
   position: relative;
-
-
 }
 
 #main-navbar ul
@@ -31,6 +29,8 @@
 	
     display: block;
  	float:left;
+ 		right: 50%;
+ 		position:relative;
 }
 
 
@@ -40,9 +40,6 @@
 	padding: 10px 20px;
 	color: #fff;
 	text-decoration: none;
-		right: 50%;
-	position: relative;
-
 
 }
 
