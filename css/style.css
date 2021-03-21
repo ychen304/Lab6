@@ -2,11 +2,9 @@
 {
 	background-color: blue;
 	overflow: hidden;
-	float: left;
+
 	width: 100%;
 	position: relative;
-	text-align: center;
-
 }
 
 #navbar-container
@@ -63,14 +61,14 @@ right: 0%;
 background-color: red;
 height: 100%;
 width: 20%;
-text-align: center;
-padding: 0;
+
 
 }
 
 #sidebar ul
 {
-
+text-align: center;
+padding: 0;
   list-style-type: none;
 }
 
