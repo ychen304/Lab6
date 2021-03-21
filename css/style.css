@@ -2,7 +2,7 @@
 {
 	background-color: blue;
 	overflow: hidden;
-
+	float:left;
 	width: 100%;
 	position: relative;
 }
@@ -19,65 +19,59 @@
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	position: relative;
  	float:left;
     left: 50%;
-    right: 50%;
     display: block;
 }
-
-
-
 
 #main-navbar ul li a
 {
 	display: block;
-padding: 10px 20px;
-color: #fff;
-text-decoration: none;
-	
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+		position: relative;
+
+    right: 50%;
 }
 
 #main-navbar ul li a:hover
 {
- background-color: #000;
+	background-color: #000;
 }
 
 #main-navbar #onpage
 {
-  text-decoration: underline overline;
+ 	text-decoration: underline overline;
 }
 
 #sidebar
 {
 	position: fixed;
-right: 0%;
-background-color: red;
-height: 100%;
-width: 20%;
-
-
+	right: 0%;
+	background-color: red;
+	height: 100%;
+	width: 20%;
 }
 
 #sidebar ul li
 {
-text-align: center;
-padding: 0;
-  list-style-type: none;
+	text-align: center;
+	padding: 0;
+  	list-style-type: none;
 }
 
 #sidebar ul li a
 {
-
-  color: #fff;
-    display:block;
-      text-decoration: none;
-          padding: 15px 0;
+  	color: #fff;
+	display:block;
+  	text-decoration: none;
+   	padding: 15px 0;
 }
 
 #sidebar ul li a:hover
 {
-  background-color: #000;
+  	background-color: #000;
 }
 
 
