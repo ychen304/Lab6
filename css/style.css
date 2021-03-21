@@ -19,6 +19,7 @@
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	position: relative;
  	float:left;
     left: 50%;
     display: block;
@@ -30,9 +31,8 @@
 	padding: 10px 20px;
 	color: #fff;
 	text-decoration: none;
-		position: relative;
+	    right: 50%;
 
-    right: 50%;
 }
 
 #main-navbar ul li a:hover
