@@ -22,6 +22,7 @@
 	position: relative;
  	float:left;
     left: 50%;
+    right: 50%;
     display: block;
 }
 
@@ -31,8 +32,6 @@
 	padding: 10px 20px;
 	color: #fff;
 	text-decoration: none;
-	    right: 50%;
-
 }
 
 #main-navbar ul li a:hover
