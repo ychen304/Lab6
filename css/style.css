@@ -23,16 +23,10 @@
  	float:left;
     left: 50%;
     right: 50%;
+    display: block;
 }
 
-#main-navbar ul li
-{
 
-float: left;
-position: relative;
-display: block;
-
-}
 
 
 #main-navbar ul li a
