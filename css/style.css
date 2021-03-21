@@ -28,9 +28,8 @@
 
 #main-navbar ul li
 {
-	right: 50%;
+	
     display: block;
-    position: relative;
  	float:left;
 }
 
