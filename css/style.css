@@ -7,7 +7,15 @@
 	position: relative;
 }
 
+#navbar-container
+{
 
+ float: left;
+  width: 100%;
+  position: relative;
+
+	
+}
 
 #main-navbar ul
 {
@@ -15,7 +23,9 @@
 	margin: 0;
 	padding: 0;
     left: 50%;
- float:left;
+ 	float:left;
+ 		position: relative;
+
 }
 
 #main-navbar ul li
