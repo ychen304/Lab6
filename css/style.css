@@ -52,7 +52,7 @@
  	text-decoration: underline overline;
 }
 
-#sidebar
+#sidebar-container
 {
 	position: fixed;
 	right: 0%;
@@ -61,7 +61,7 @@
 	width: 20%;
 }
 
-#sidebar ul
+#sidebar ul li
 {
 	text-align: center;
 	padding: 0;
