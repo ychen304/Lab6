@@ -2,16 +2,15 @@
 {
 	background-color: blue;
 	overflow: hidden;
-	 float: left;
-  width: 100%;
-  position: relative;
-
 
 }
 
 #navbar-container
 {
 
+ float: left;
+  width: 100%;
+  position: relative;
 
 
 }
@@ -23,7 +22,7 @@
 	padding: 0;
     left: 50%;
  	float:left;
- 		position: relative;
+ 	position: relative;
 
 }
 
@@ -42,6 +41,10 @@
 	padding: 10px 20px;
 	color: #fff;
 	text-decoration: none;
+		right: 50%;
+	position: relative;
+
+
 }
 
 #main-navbar ul li a:hover
