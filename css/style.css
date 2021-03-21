@@ -65,7 +65,7 @@ width: 20%;
 
 }
 
-#sidebar ul
+#sidebar ul li
 {
 text-align: center;
 padding: 0;
@@ -79,7 +79,6 @@ padding: 0;
     display:block;
       text-decoration: none;
           padding: 15px 0;
-
 }
 
 #sidebar ul li a:hover
