@@ -2,6 +2,9 @@
 {
 	background-color: blue;
 	overflow: hidden;
+	  width: 100%;
+	      float:left;
+
 }
 
 #navbar-container
