@@ -41,11 +41,12 @@
 #main-navbar ul li a:hover
 {
 	background-color: #000;
+	text-decoration: underline overline;
 }
 
 #main-navbar #onpage
 {
- 	text-decoration: underline overline;
+ 	
 }
 
 #sidebar-container
@@ -64,8 +65,11 @@
   	list-style-type: none;
 }
 
-
-
+#sidebar-container ul li
+{
+	text-align: center;
+	padding: 0;
+}
 
 #sidebar-container ul li a
 {
