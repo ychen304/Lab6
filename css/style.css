@@ -64,6 +64,13 @@
   	list-style-type: none;
 }
 
+#sidebar ul li
+{
+	text-align: center;
+	padding: 0;
+}
+
+
 #sidebar ul li a
 {
   	color: #fff;
